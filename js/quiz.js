@@ -122,42 +122,30 @@ let prog_questions = [{
         "score": ["pinf"],
     }]},
     {
-    "txt": "Какие технологии программирования Вам больше всего нравятся?",
+    "txt": "Любите ли Вы играть в компьютерные игры?",
     "src": "../img/5prog.jpg",
     "answers": [{
-        "atxt": "C, C#, JAVA, Perl, PHP, JSP, EJB, J2EE",
-        "score": ["ifst"],
+        "atxt": "Да",
+        "score": ["ifst", "pinf"],
     },
     {
-        "atxt": "С, C#, .NET, Java, PHP, LISP, PROLOG",
-        "score": ["pinf"],
-    },
-    {
-        "atxt": "HTML5, XML, Java, PHP, MS SQL Server, MySQL",
-        "score": ["ivcht"],
-    },
-    {
-        "atxt": "Fortran, Pascal, C++, Java, Prolog, Lisp",
-        "score": ["pinj"],
+        "atxt": "Нет",
+        "score": ["ivcht", "pinj"],
     }]},
     {
-    "txt": "В каких компаниях из предложенных Вы бы хотели работать больше всего? ",
+    "txt": "Я лучше воспринимаю и запоминаю информацию:",
     "src": "../img/6prog.jpg",
     "answers": [{
-        "atxt": "EPAM, Mirantis",
+        "atxt": "На слух",
         "score": ["pinj"],
     },
     {
-        "atxt": "Neoflex, EPAM Systems",
-        "score": ["ifst"],
+        "atxt": "С помощью картинок и образов",
+        "score": ["ifst", "pinf"],
     },
     {
-        "atxt": "Лаборатория Касперского",
+        "atxt": "Чтобы лучше запомнить, мне нужно понять логику, разобраться",
         "score": ["ivcht"],
-    },
-    {
-        "atxt": "ООО «СибИнтек»",
-        "score": ["pinf"],
     }]},
     {
     "txt": "Постарайтесь выбрать один из четырёх предложенных вариантов:",
